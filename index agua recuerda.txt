@@ -1,0 +1,140 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>El agua recuerda</title>
+</head>
+<body style="background-image: url('papel.png'); background-size: cover; background-position: center; background-attachment: fixed;text-align: center; padding-top: 80px;"> 
+<h1 style="font-family: 'Arial Narrow', Arial, sans-serif; font-size: 70px; color: #777777;">EL AGUA RECUERDA</h1>
+<p style="font-family: 'Courier New', monospace; font-size: 24px; color: #777777;">Mi proceso creativo</p>
+  <p style="font-family: 'Courier New', monospace; font-size: 18px; color: #777777;">Paola Morel - UNA 2026</p>
+<hr style="margin-top: 350px; border: none; border-top: 1px solid #BBBBBB;"><h2 style="font-family: Arial, sans-serif; font-size: 36px; color: #777777;">EL ORIGEN DE LA OBRA</h2>
+
+
+<p style="font-family: 'Courier New', monospace; font-size: 20px; color: #777777; line-height: 1.8; max-width: 850px; margin: 30px auto;">Esta obra nace de mi proyecto de pintura "El agua que sostiene", desarrollado en la materia Proyectual II. A partir de mis recuerdos y experiencias vinculadas al agua, comencé a explorar la relación entre el cuerpo, la memoria y la sensación de flotar. El agua dejó de ser solamente un paisaje para convertirse en un espacio de recuerdos, sensaciones y emociones.</p>
+
+<p style="font-family: 'Courier New', monospace; font-size: 18px; color: #777777; max-width: 850px; margin: 35px auto; line-height: 1.8;">
+EL AGUA RECUERDA surge de mi interés por continuar trabajando con el agua, un tema que también estoy desarrollando en Proyectual II. Me interesa pensar el agua no solamente como un elemento visual, sino como un espacio relacionado con la memoria, el cuerpo, los recuerdos y la sensación de estar sostenido.
+</p>
+
+<p style="font-family: 'Courier New', monospace; font-size: 18px; color: #777777; max-width: 850px; margin: 35px auto; line-height: 1.8;">
+Elegí realizar una obra interactiva porque me permite trasladar esa búsqueda a otro lenguaje. En este caso, el espectador no solamente observa, sino que con sus acciones puede hacer aparecer imágenes, palabras y recuerdos. Mi intención es que este trabajo pueda dialogar también con mi proyecto de Proyectual II y ampliar la misma idea desde lo digital.
+</p>
+
+<h2 style="font-family: Arial, sans-serif; font-size: 36px; color: #777777; margin-top: 150px;">MANIFIESTO</h2>
+<h3 style="font-family: 'Courier New', monospace; font-size: 22px; color: #777777;">El agua que sostiene</h3>
+<p style="font-family: 'Courier New', monospace; font-size: 18px; color: #777777; max-width: 850px; margin: 35px auto; line-height: 1.8; text-align: center;">
+Antes de saber su nombre, ya lo había sentido.
+</p>
+<p style="font-family: 'Courier New', monospace; font-size: 18px; color: #777777; max-width: 850px; margin: 45px auto; line-height: 1.8; text-align: center;">
+Floto.<br>
+Y en ese flotar entiendo que hay cosas que el cuerpo sabe antes que la mente: los rayos del sol que entran y se transparentan en el agua, esa calidez que viene de arriba y te rodea. Adentro, todo pesa menos.
+</p>
+<p style="font-family: 'Courier New', monospace; font-size: 18px; color: #777777; max-width: 850px; margin: 45px auto; line-height: 1.8; text-align: center;">
+Pinto porque necesito traducir eso.<br>
+Elijo el óleo porque se deja moldear y esperar.<br>
+Es paciente. Te espera. No te apura.<br>
+Te deja pensar, soñar, equivocarte.<br>
+Mis paletas no son elecciones: son registros del cuerpo.<br>
+El verde que respira. La transparencia que no miente
+</p>
+<p style="font-family: 'Courier New', monospace; font-size: 18px; color: #777777; max-width: 850px; margin: 45px auto; line-height: 1.8; text-align: center;">
+Ese agua tiene nombre: Acuífero Guaraní.<br>
+Una reserva inmensa que existe debajo de nosotros,<br>
+en silencio, sin que casi nadie lo sepa.<br>
+No nos pide nada. Solo sostiene.
+</p>
+<p style="font-family: 'Courier New', monospace; font-size: 18px; color: #777777; max-width: 850px; margin: 45px auto; line-height: 1.8; text-align: center;">
+Rechazo mirar el agua como un simple paisaje decorativo.<br>
+Rechazo pensarla solo como recurso, como fondo,<br>
+como superficie tranquila.<br>
+El agua no es fondo: es cuerpo, memoria y vida.
+</p>
+<p style="font-family: 'Courier New', monospace; font-size: 18px; color: #777777; max-width: 850px; margin: 45px auto; line-height: 1.8; text-align: center;">
+Pido que nos detengamos a mirar lo que no se ve.<br>
+No lo que brilla, sino lo que está debajo.<br>
+Lo que nos sostiene sin que se lo agradezcamos.<br>
+Eso me obliga a pintar. Eso me obliga a no olvidar.
+</p>
+<p style="font-family: 'Courier New', monospace; font-size: 18px; color: #777777; max-width: 850px; margin: 45px auto; line-height: 1.8; text-align: center;">
+Defiendo una pintura que pueda hacer visible lo invisible.<br>
+Una pintura que no represente solamente el agua,<br>
+sino también su profundidad, su silencio y su fragilidad.
+</p>
+<p style="font-family: 'Courier New', monospace; font-size: 18px; color: #777777; max-width: 850px; margin: 45px auto; line-height: 1.8; text-align: center;">
+Quiero pintar aquello que existe aunque no lo miremos.<br>
+Quiero pintar lo que sostiene antes de que desaparezca.<br>
+Eso me obliga a pintar.<br>
+Eso me obliga a no olvidar.
+</p>
+<p style="font-family: 'Courier New', monospace; font-size: 18px; color: #777777; max-width: 850px; margin: 80px auto 100px; line-height: 1.8; text-align: right;">
+El agua no necesita que la recordemos.<br>
+Nosotros sí.<br>
+Paola Morel 2026
+</p>
+<h2 style="font-family: Arial, sans-serif; font-size: 30px; color: #777777; margin-top: 130px;">
+IMÁGENES DE INSPIRACIÓN Y PRIMERAS BÚSQUEDAS
+</h2>
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 25px; max-width: 750px; margin: 50px auto;">
+
+<img src="Fotos/agua1.png" style="width: 210px; height: 160px; object-fit: contain;">
+
+<img src="Fotos/boceto 5.png" style="width: 210px; height: 160px; object-fit: contain;">
+
+<img src="Fotos/boceto2.jpg" style="width: 210px; height: 160px; object-fit: contain;">
+
+<img src="Fotos/boceto3.jpg" style="width: 210px; height: 160px; object-fit: contain;">
+
+<img src="Fotos/boceto4.jpg" style="width: 210px; height: 160px; object-fit: contain;">
+
+</div>
+<hr style="margin-top: 150px; border: none; border-top: 1px solid #BBBBBB;">
+
+<h2 style="font-family: Arial, sans-serif; font-size: 36px; color: #777777; margin-top: 80px;">
+MI PROCESO CREATIVO
+</h2>
+<h3 style="font-family: 'Courier New', monospace; font-size: 22px; color: #777777; margin-top: 60px;">
+PRIMERAS ETAPAS DE LA OBRA
+</h3>
+<div style="display: flex; justify-content: center; align-items: center; gap: 25px; flex-wrap: wrap; margin: 50px auto;">
+
+<img src="Fotos/primera etapa.png" alt="Primera etapa: inicio" style="height: 220px; width: auto; max-width: 90%;">
+
+<img src="Fotos/segunda etapa proceso.png" alt="Segunda etapa: interacción" style="height: 220px; width: auto; max-width: 90%;">
+
+<img src="Fotos/tercera etapa cierre.png" alt="Tercera etapa: cierre" style="height: 220px; width: auto; max-width: 90%;">
+
+</div>
+<h3 style="font-family: 'Courier New', monospace; font-size: 22px; color: #777777; margin-top: 80px;">
+PRIMERAS PRUEBAS EN p5.js
+</h3>
+<div style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap; margin: 50px auto;">
+
+<img src="Fotos/pantalla p5.png" alt="Primera prueba del fondo en p5.js" style="height: 220px; width: auto; max-width: 90%;">
+
+<img src="Fotos/prueba p5 1.png" alt="Primeras pruebas en el editor p5.js" style="height: 220px; width: auto; max-width: 90%;">
+
+</div>
+
+<h3 style="font-family: 'Courier New', monospace; font-size: 22px; color: #777777; margin-top: 60px;">
+Primeras decisiones sobre el agua y el color
+</h3>
+
+<p style="font-family: 'Courier New', monospace; font-size: 18px; color: #777777; max-width: 850px; margin: 35px auto; line-height: 1.8; text-align: center;">
+En mis primeras pruebas con p5.js busqué representar el agua a través de los colores y las formas. Elegí trabajar principalmente con distintas tonalidades de verdes, combinadas con turquesas suaves y transparencias, para transmitir una sensación de profundidad, calma y movimiento.
+</p>
+
+<p style="font-family: 'Courier New', monospace; font-size: 18px; color: #777777; max-width: 850px; margin: 35px auto; line-height: 1.8; text-align: center;">
+Comencé utilizando formas ovaladas superpuestas, con diferentes tamaños y niveles de transparencia, intentando recrear los reflejos de la luz y el movimiento suave del agua.
+</p>
+
+<p style="font-family: 'Courier New', monospace; font-size: 18px; color: #777777; max-width: 850px; margin: 35px auto; line-height: 1.8; text-align: center;">
+Mi intención era que el agua no fuera solamente un fondo, sino que tuviera vida y movimiento propio, manteniendo la relación con mi proyecto de pintura El agua que sostiene.
+</p>
+<h3 style="font-family: 'Courier New', monospace; font-size: 22px; color: #777777; margin-top: 80px;">
+EVOLUCIÓN DE LA OBRA EN p5.js
+</h3>
+
+</body>
+</html>
